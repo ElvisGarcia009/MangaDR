@@ -23,7 +23,7 @@ Bootstrap para una mejor experiencia de usuario.
     
     Base de Datos: MySQL (manejada a través de phpMyAdmin).
     
-    APIs Externas: API de manga para obtener información en tiempo real.
+    APIs Externas: API de manga mangaverse.
 
 
 **Uso de la Aplicación**
