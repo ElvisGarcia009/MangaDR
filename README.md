@@ -17,7 +17,7 @@ Bootstrap para una mejor experiencia de usuario.
 
 **Tecnologías Utilizadas**
 
-    Frontend: JavaScript (Fetch API), HTML5, CSS3, Bootstrap 4.
+    Frontend: HTML5, CSS3, Bootstrap 4, JavaScript (Fetch API).
     
     Backend: PHP con manejo de sesiones.
     
@@ -25,38 +25,6 @@ Bootstrap para una mejor experiencia de usuario.
     
     APIs Externas: API de manga para obtener información en tiempo real.
 
-**Instalación y Configuración**
-
-Requisitos Previos
-
-    Servidor Apache con PHP (Ejemplo: XAMPP, LAMP, MAMP, WAMP).
-    
-    MySQL o MariaDB instalado.
-    
-    phpMyAdmin para la gestión de la base de datos.
-
-**Pasos de Instalación**
-
-Clona el repositorio o descarga el código fuente
-
-    git clone https://github.com/usuario/MangaDR.git
-    cd MangaDR
-
-Configura la base de datos
-
-    Importa el archivo mangadb.sql de la carpeta **MangaDR_database** en tu servidor MySQL.
-    
-    Asegúrate de configurar las credenciales correctas en connectDB.php.
-
-Configura el servidor local
-
-    Copia el proyecto en la carpeta htdocs (para XAMPP/WAMP) o en el directorio raíz de tu servidor Apache.
-    
-    Inicia Apache y MySQL desde el panel de control de XAMPP/WAMP.
-
-Ejecuta el Proyecto
-
-Abre el navegador y accede a: http://localhost/ProyectoFinalWeb2/
 
 **Uso de la Aplicación**
 
